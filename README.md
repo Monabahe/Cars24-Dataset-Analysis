@@ -45,6 +45,7 @@ The **Cars24 Dataset Analysis** project aims to analyze a dataset from Cars24 to
 ## Repository Structure
 - `raw dataset/`: Contains the raw and cleaned dataset files.
 - `Project files/`: Includes Jupyter notebooks used for data cleaning, EDA, and visualization.
+- `ppt file`: This is my presentation file in which i include all the key insights and findings.
 - `README.md`: Project description and overview.
 
 ## How to Use
